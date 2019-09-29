@@ -1,0 +1,49 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi private-next-pages/_document.js": 0,
+      "multi next/dist/pages/_app": 1,
+      "multi next/dist/pages/_error": 2,
+      "multi private-next-pages/index.js": 3
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/zsY0xQ8jwFeEJnYSxFGJD/pages/_app.js": 0,
+      "static/zsY0xQ8jwFeEJnYSxFGJD/pages/_document.js": 1,
+      "static/zsY0xQ8jwFeEJnYSxFGJD/pages/_error.js": 2,
+      "static/r2gaaS-IjzkIYHDoLyVLu/pages/_app.js": 3,
+      "static/r2gaaS-IjzkIYHDoLyVLu/pages/_document.js": 4,
+      "static/r2gaaS-IjzkIYHDoLyVLu/pages/_error.js": 5,
+      "static/rfSLuZb3d2qMWo0yFh677/pages/_app.js": 0,
+      "static/rfSLuZb3d2qMWo0yFh677/pages/_document.js": 1,
+      "static/rfSLuZb3d2qMWo0yFh677/pages/_error.js": 2,
+      "static/rfSLuZb3d2qMWo0yFh677/pages/index.js": 6,
+      "static/FZfW1MFSPRIfU_KWPdmaL/pages/_app.js": 3,
+      "static/FZfW1MFSPRIfU_KWPdmaL/pages/_document.js": 4,
+      "static/FZfW1MFSPRIfU_KWPdmaL/pages/_error.js": 5,
+      "static/FZfW1MFSPRIfU_KWPdmaL/pages/index.js": 7,
+      "static/Ep03EYBXNtGkncUaZd6r4/pages/_app.js": 0,
+      "static/Ep03EYBXNtGkncUaZd6r4/pages/_document.js": 1,
+      "static/Ep03EYBXNtGkncUaZd6r4/pages/_error.js": 2,
+      "static/Ep03EYBXNtGkncUaZd6r4/pages/index.js": 6,
+      "static/iUr0DXvypTOvhTrwfBPp7/pages/_app.js": 3,
+      "static/iUr0DXvypTOvhTrwfBPp7/pages/_document.js": 4,
+      "static/iUr0DXvypTOvhTrwfBPp7/pages/_error.js": 5,
+      "static/iUr0DXvypTOvhTrwfBPp7/pages/index.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      3,
+      4,
+      5,
+      7
+    ]
+  }
+}
